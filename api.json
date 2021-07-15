@@ -1,0 +1,19 @@
+{
+    "Greeting": [
+        "Hi there", 
+        "Hi my friend",
+         "Hey !"
+    ],
+    "welcome": [
+        "You are welcome",
+        "No problem"
+    ],
+    "Thank": [
+        "thank you",
+        "thank you very much"
+    ],
+    "bye": [
+        "Bye",
+        "Bye! Hope to see you soon"
+    ]
+}

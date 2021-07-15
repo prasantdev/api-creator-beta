@@ -1,0 +1,24 @@
+{
+  "name": "api-creator",
+  "version": "1.0.0",
+  "description": "chat bot api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasantdev/api-creator-beta.git"
+  },
+  "keywords": [
+    "api",
+    "chat",
+    "bot"
+  ],
+  "author": "prasant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prasantdev/api-creator-beta/issues"
+  },
+  "homepage": "https://github.com/prasantdev/api-creator-beta#readme"
+}
